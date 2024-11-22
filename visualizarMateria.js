@@ -1,4 +1,4 @@
-const URL_API = "http://localhost:3000/materia/"
+const URL_API = "https://backend-render-3z2y.onrender.com/materia/"
 
 const urlParams = new URLSearchParams(window.location.search);
 var id = urlParams.get("id")
